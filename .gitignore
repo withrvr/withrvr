@@ -1,0 +1,7 @@
+__pycache__
+.vscode
+
+# foo bar files
+foo.*
+bar.*
+foobar.*
