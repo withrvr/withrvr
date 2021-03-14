@@ -32,13 +32,13 @@
 
 # Technologies (Likes, Work, Mastering) :
 
-[<img align="left" alt="Python" width="100px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png" />](#connect-with-me-)
-[<img align="left" alt="Django" width="100px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/django/django.png" />](#connect-with-me-)
-[<img align="left" alt="HTML-HTML5" width="100px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" />](#connect-with-me-)
-[<img align="left" alt="CSS-CSS3" width="100px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" />](#connect-with-me-)
-[<img align="left" alt="JavaScript-JS" width="100px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" />](#connect-with-me-)
-[<img align="left" alt="SQL" width="100px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sql/sql.png" />](#connect-with-me-)
-[<img align="left" alt="MySQL" width="100px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mysql/mysql.png" />](#connect-with-me-)
+[<img align="left" alt="Python" width="90px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png" />](#connect-with-me-)
+[<img align="left" alt="Django" width="90px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/django/django.png" />](#connect-with-me-)
+[<img align="left" alt="HTML-HTML5" width="90px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" />](#connect-with-me-)
+[<img align="left" alt="CSS-CSS3" width="90px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" />](#connect-with-me-)
+[<img align="left" alt="JavaScript-JS" width="90px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" />](#connect-with-me-)
+[<img align="left" alt="SQL" width="90px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sql/sql.png" />](#connect-with-me-)
+[<img align="left" alt="MySQL" width="90px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mysql/mysql.png" />](#connect-with-me-)
 
 <!--- ........... End .......... and now ............... declaration of variables ............ -->
 
