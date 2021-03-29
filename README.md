@@ -8,7 +8,7 @@
 -   😀 Be Happy
 -   🎉 Seen Beautiful World - 18th Nov
 
-### 👩‍💻 Languages and Tools:<br>
+## 👩‍💻 Languages and Tools:<br>
 
 <code><img  width="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png" /></code>
 <code><img  width="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/django/django.png" /></code>
@@ -16,9 +16,7 @@
 <code><img  width="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" /></code>
 <code><img  width="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" /></code>
 
-<!-- #ID is (#connect-with-me-) -->
-
-### Curretly Working on
+## Curretly Working on
 
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=withrvr&repo=1Link&show_owner=true)](https://github.com/withrvr/1Link)
 
