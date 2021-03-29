@@ -22,15 +22,7 @@
 
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=withrvr&repo=1Link&show_owner=true)](https://github.com/withrvr/1Link)
 
-# Connect with me :
-
--   <img  width="30" src="/assets/Youtube.png" /> ... [With RVR][withrvr] | [Tech With RVR][techwithrvr] | [Code With RVR][codewithrvr]
--   <img  width="30" src="/assets/Instagram.png" /> ... [@withrvr][withrvr-ig] | [@techwithrvr][techwithrvr-ig] | [@codewithrvr][codewithrvr-ig]
--   [<img  width="30" src="/assets/Twitter.svg" />](https://twitter.com/intent/follow?screen_name=withrvr)
--   [<img  width="30" src="/assets/Facebook.png" />](https://www.facebook.com/withrvr)
-
-<!--
-(#connect-with-me-)
+<!-- (#connect-with-me-) -->
 
 # Connect with me :
 
@@ -44,8 +36,6 @@
     -   [@CodeWithRVR][codewithrvr-ig]
 -   [Twitter](https://twitter.com/intent/follow?screen_name=withrvr)
 -   [FaceBook](https://www.facebook.com/withrvr)
-
- -->
 
 # Github Stats :
 
