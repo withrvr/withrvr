@@ -38,7 +38,8 @@
 # Github Stats :
 
 [![withrvr GitHub Stat](https://github-readme-stats.vercel.app/api?username=withrvr&show_icons=true)](#connect-with-me-)
-[![withrvr GitHub Most Used Language Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=withrvr&langs_count=10)](#connect-with-me-)
+[![withrvr GitHub Most Used Language Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=withrvr&langs_count=10&layout=compact)](#connect-with-me-)
+
 
 <!--- ........... End .......... and now ............... declaration of variables ............ -->
 
