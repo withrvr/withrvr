@@ -8,16 +8,21 @@
 -   😀 Be Happy
 -   🎉 Seen Beautiful World - 18th Nov
 
-## 👩‍💻 Languages and Tools:<br>
+## 👩‍💻 Languages and Tools:
 
 <code><img  width="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png" /></code>
 <code><img  width="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/django/django.png" /></code>
-<br>
 <code><img  width="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" /></code>
 <code><img  width="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" /></code>
 <code><img  width="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" /></code>
 <code><img  width="30" src="https://getbootstrap.com/docs/5.0/assets/brand/bootstrap-logo-shadow.png" /></code>
 <code><img  width="30" src="https://avatars.githubusercontent.com/u/70142?s=200&v=4" /></code>
+<code><img  width="30" src="https://avatars.githubusercontent.com/u/10342521?s=200&v=4" /></code>
+<code><img  width="30" src="https://avatars.githubusercontent.com/u/17040762?s=200&v=4" /></code>
+<code><img  width="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sql/sql.png" /></code>
+<code><img  width="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mysql/mysql.png" /></code>
+<code><img  width="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png" /></code>
+<code><img  width="30" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png" /></code>
 
 ## Curretly Working on
 
@@ -42,7 +47,6 @@
 
 [![withrvr GitHub Stat](https://github-readme-stats.vercel.app/api?username=withrvr&show_icons=true)](#connect-with-me-)
 [![withrvr GitHub Most Used Language Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=withrvr&langs_count=10&layout=compact)](#connect-with-me-)
-
 
 <!--- ........... End .......... and now ............... declaration of variables ............ -->
 
