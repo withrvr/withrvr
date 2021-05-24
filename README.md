@@ -26,6 +26,7 @@
 
 # Connect with me
 
+[![](https://img.shields.io/badge/Gmail-D14836?logo=gmail&logoColor=white)](mailto:contactwithrvr@gmail.com)
 [![](https://img.shields.io/badge/withrvr-1DA1F2?logo=twitter&logoColor=white)][twitter]
 
 [![](https://img.shields.io/badge/withrvr-E4405F?logo=instagram&logoColor=white)][withrvr-ig]&nbsp;
