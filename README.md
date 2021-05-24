@@ -4,7 +4,7 @@
 -   🎯 & [#ContentCreator](#connect-with-me) on IG & YT
 -   👨‍💻 Coding -[@codewithrvr](#connect-with-me)
 -   💻 Tech - [@techwithrvr](#connect-with-me)
--   💬 Dm for Anything ( [@withrvr](#connect-with-me) )
+-   💬 Dm for Anything ( contactwithrvr@gmail.com )
 -   😀 Be Happy
 -   🎉 Seen Beautiful World - 18th Nov
 
@@ -26,7 +26,8 @@
 
 # Connect with me
 
-[![](https://img.shields.io/badge/Gmail-D14836?logo=gmail&logoColor=white)](mailto:contactwithrvr@gmail.com)
+contactwithrvr@gmail.com
+
 [![](https://img.shields.io/badge/withrvr-1DA1F2?logo=twitter&logoColor=white)][twitter]
 
 [![](https://img.shields.io/badge/withrvr-E4405F?logo=instagram&logoColor=white)][withrvr-ig]&nbsp;
