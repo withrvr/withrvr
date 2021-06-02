@@ -8,22 +8,35 @@
 -   😀 Be Happy
 -   🎉 Seen Beautiful World - 18th Nov
 
-## 👩‍💻 Languages and Tools
+# Languages and Tools
 
-<code><img  width="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png" /></code>
-<code><img  width="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/django/django.png" /></code>
-<code><img  width="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" /></code>
-<code><img  width="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" /></code>
-<code><img  width="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" /></code>
-<code><img  width="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png" /></code>
-<code><img  width="30" src="https://getbootstrap.com/docs/5.0/assets/brand/bootstrap-logo-shadow.png" /></code>
-<code><img  width="30" src="https://avatars.githubusercontent.com/u/70142?s=200&v=4" /></code>
-<code><img  width="30" src="https://avatars.githubusercontent.com/u/10342521?s=200&v=4" /></code>
-<code><img  width="30" src="https://avatars.githubusercontent.com/u/17040762?s=200&v=4" /></code>
-<code><img  width="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sql/sql.png" /></code>
-<code><img  width="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mysql/mysql.png" /></code>
-<code><img  width="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png" /></code>
-<code><img  width="30" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png" /></code>
+### Website Development
+
+[<code><img  width="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" /></code>](#)
+[<code><img  width="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" /></code>](#)
+[<code><img  width="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" /></code>](#)
+[<code><img  width="30" src="https://getbootstrap.com/docs/5.0/assets/brand/bootstrap-logo-shadow.png" /></code>](https://getbootstrap.com/)
+[<code><img  width="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png" /></code>](http://reactjs.org/)
+[<code><img  width="30" src="https://avatars.githubusercontent.com/u/70142?s=200&v=4" /></code>](https://jquery.com/)
+[<code><img  width="30" src="https://avatars.githubusercontent.com/u/10342521?s=200&v=4" /></code>](http://chartjs.org/)
+[<code><img  width="30" src="https://avatars.githubusercontent.com/u/17040762?s=200&v=4" /></code>](https://sortablejs.github.io/Sortable/)
+[<code><img  width="30" src="https://chessboardjs.com/img/chesspieces/wikipedia/bK.svg" /></code>](https://chessboardjs.com/)
+
+### Pythonic
+
+[<code><img  width="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png" /></code>](http://python.org/)
+[<code><img  width="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/django/django.png" /></code>](https://www.djangoproject.com/)
+[<code><img  width="30" src="https://matplotlib.org/_static/favicon.ico" /></code>](https://matplotlib.org/)
+
+### Other
+
+[<code><img  width="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" /></code>](https://code.visualstudio.com/)
+[<code><img  width="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sql/sql.png" /></code>](#)
+[<code><img  width="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mysql/mysql.png" /></code>](https://www.mysql.com/)
+[<code><img  width="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png" /></code>](https://git-scm.com/)
+[<code><img  width="30" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png" /></code>](https://github.com/)
+[<code><img  width="30" src="https://www.herokucdn.com/favicon.ico" /></code>](https://heroku.com/)
+[<code><img  width="30" src="https://www.netlify.com/v3/static/favicon/favicon-32x32.png" /></code>](https://www.netlify.com/)
 
 # Connect with me
 
