@@ -21,7 +21,7 @@
 [<code><img  width="30" src="https://avatars.githubusercontent.com/u/70142?s=200&v=4" /></code>](https://jquery.com/)
 [<code><img  width="30" src="https://avatars.githubusercontent.com/u/10342521?s=200&v=4" /></code>](http://chartjs.org/)
 [<code><img  width="30" src="https://avatars.githubusercontent.com/u/17040762?s=200&v=4" /></code>](https://sortablejs.github.io/Sortable/)
-[<code><img  width="30" src="https://chessboardjs.com/img/chesspieces/wikipedia/bK.svg" /></code>](https://chessboardjs.com/)
+[<code><img  width="30" src="https://www.google.com/s2/favicons?domain=https://chessboardjsx.com/" /></code>](https://chessboardjsx.com/)
 
 ### Pythonic
 
