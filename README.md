@@ -19,13 +19,14 @@
 [<code><img  width="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png" /></code>](http://reactjs.org/)
 [<code><img  width="30" src="https://threejs.org/files/favicon.ico" /></code>](https://threejs.org/)
 
-### Website Packages
+### Packages
 
 [<code><img  width="30" src="https://avatars.githubusercontent.com/u/70142?s=200&v=4" /></code>](https://jquery.com/)
 [<code><img  width="30" src="https://avatars.githubusercontent.com/u/10342521?s=200&v=4" /></code>](http://chartjs.org/)
 [<code><img  width="30" src="https://avatars.githubusercontent.com/u/17040762?s=200&v=4" /></code>](https://sortablejs.github.io/Sortable/)
-[<code><img  width="30" src="https://www.google.com/s2/favicons?domain=https://chessboardjsx.com/" /></code>](https://chessboardjsx.com/)
+[<code><img  width="30" src="https://howlerjs.com/assets/images/logo-big.svg" /></code>](https://howlerjs.com/)
 [<code><img  width="30" src="https://avatars.githubusercontent.com/u/17460423?s=200&v=4" /></code>](https://github.com/chancejs/chancejs)
+[<code><img  width="30" src="https://raw.githubusercontent.com/willb335/chessboardjsx-website/master/public/favicon.ico" /></code>](https://chessboardjsx.com/)
 
 ### Pythonic
 
