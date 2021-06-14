@@ -34,11 +34,16 @@
 [<code><img  width="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/django/django.png" /></code>](https://www.djangoproject.com/)
 [<code><img  width="30" src="https://avatars.githubusercontent.com/u/215947?s=200&v=4" /></code>](https://matplotlib.org/)
 
+### Database Related
+
+[<code><img  width="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sql/sql.png" /></code>](#)
+[<code><img  width="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mysql/mysql.png" /></code>](https://www.mysql.com/)
+[<code><img  width="30" src="https://avatars.githubusercontent.com/u/17189275?s=200&v=4" /></code>](https://www.apollographql.com/)
+[<code><img  width="30" src="https://avatars.githubusercontent.com/u/12972006?s=200&v=4" /></code>](https://graphql.org/)
+
 ### Other
 
 [<code><img  width="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" /></code>](https://code.visualstudio.com/)
-[<code><img  width="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sql/sql.png" /></code>](#)
-[<code><img  width="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mysql/mysql.png" /></code>](https://www.mysql.com/)
 [<code><img  width="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png" /></code>](https://git-scm.com/)
 [<code><img  width="30" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png" /></code>](https://github.com/)
 [<code><img  width="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png" /></code>](https://nodejs.org/)
