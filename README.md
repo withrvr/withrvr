@@ -38,7 +38,7 @@
 
 [<code><img  width="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sql/sql.png" /></code>](#)
 [<code><img  width="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mysql/mysql.png" /></code>](https://www.mysql.com/)
-[<code><img  width="30" src="https://avatars.githubusercontent.com/u/17189275?s=200&v=4" /></code>](https://www.apollographql.com/)
+[<code><img  width="30" src="https://www.apollographql.com/favicon.ico" /></code>](https://www.apollographql.com/)
 [<code><img  width="30" src="https://avatars.githubusercontent.com/u/12972006?s=200&v=4" /></code>](https://graphql.org/)
 
 ### Other
