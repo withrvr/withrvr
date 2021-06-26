@@ -8,7 +8,11 @@
 -   😀 Be Happy
 -   🎉 Seen Beautiful World - 18th Nov
 
-## Languages and Tools Used or Using [Click to See](./Technology-Used.md)
+# Languages and Tools
+
+## [Click to See](./Technology-Used.md)
+
+<br/>
 
 # Connect with me
 
