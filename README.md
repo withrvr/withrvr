@@ -10,9 +10,7 @@
 
 # Languages and Tools
 
-## [Click to See](./Technology-Used.md)
-
-<br/>
+### [Click to See](./Technology-Used.md)
 
 # Connect with me
 
