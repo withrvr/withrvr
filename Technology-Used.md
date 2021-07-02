@@ -47,3 +47,8 @@
 [<code><img  width="30" src="https://howlerjs.com/assets/images/logo-big.svg" /></code>](https://howlerjs.com/)
 [<code><img  width="30" src="https://avatars.githubusercontent.com/u/10566080?s=200&v=4" /></code>](https://socket.io/)
 [<code><img  width="30" src="https://threejs.org/files/favicon.ico" /></code>](https://threejs.org/)
+
+## Will Learn
+
+[<code><img  width="30" src="https://static.figma.com/app/icon/1/favicon.ico" /></code>](https://www.figma.com/)
+[<code><img  width="30" src="https://s1.wp.com/i/favicons/favicon-64x64.png" /></code>](https://wordpress.com/)
