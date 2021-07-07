@@ -10,7 +10,10 @@
 
 # Languages and Tools
 
-### [Click to See](./Technology-Used.md)
+-   Using or Used
+-   Learning
+-   Will Learn
+-   [Click to See All](./Languages-And-Tools.md)
 
 # Connect with me
 
