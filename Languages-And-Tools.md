@@ -53,7 +53,8 @@
 
 ## Will Learn
 
-[<code><img  width="30" src="https://howlerjs.com/assets/images/logo-big.svg" /></code>](https://howlerjs.com/)
+[<code><img  width="30" src="https://howlerjs.com/assets/images/logo-big.svg" /></code>](https://greensock.com/)
+[<code><img  width="30" src="https://avatars.githubusercontent.com/u/2386673?s=200&v=4" /></code>](https://howlerjs.com/)
 [<code><img  width="30" src="https://avatars.githubusercontent.com/u/10566080?s=200&v=4" /></code>](https://socket.io/)
 [<code><img  width="30" src="https://threejs.org/files/favicon.ico" /></code>](https://threejs.org/)
 [<code><img  width="30" src="https://static.figma.com/app/icon/1/favicon.ico" /></code>](https://www.figma.com/)
