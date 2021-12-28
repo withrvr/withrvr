@@ -24,12 +24,12 @@ contactwithrvr@gmail.com
 
 [Languages and Tools](./languages_and_tools.md)
 
-<br>
-
 # Github Stats
 
 ![GitHub Streak Stats](http://github-readme-streak-stats.herokuapp.com?user=withrvr&date_format=j%20M%5B%20Y%5D)
+
 ![withrvr GitHub Stats](https://github-readme-stats.vercel.app/api?username=withrvr&show_icons=true)
+
 ![withrvr GitHub Most Used Language Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=withrvr&langs_count=10&layout=compact)
 
 <!--- ........... End .......... and now ............... declaration of variables ............ -->
