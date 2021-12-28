@@ -75,6 +75,8 @@ prettier
 [<code><img  width="30" src="https://avatars.githubusercontent.com/u/426196?s=200&v=4" /></code>](https://unity.com/)
 [<code><img  width="30" src="https://static.figma.com/app/icon/1/favicon.ico" /></code>](https://www.figma.com/)
 
+[<code><img  width="30" src="https://avatars.githubusercontent.com/u/1335026?s=200&v=4" /></code>](https://firebase.google.com/)
+
 <br/>
 
 ## Packages worked with
