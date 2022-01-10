@@ -34,23 +34,41 @@
 [<code><img  width="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/django/django.png" /></code>](https://www.djangoproject.com/)
 [<code><img  width="30" src="https://avatars.githubusercontent.com/u/215947?s=200&v=4" /></code>](https://matplotlib.org/)
 
+<!-- ## Mobile
+
+[<code><img  width="30" src="https://avatars.githubusercontent.com/u/14101776?s=200&v=4" /></code>](https://flutter.dev/)
+[<code><img  width="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png" /></code>](http://reactjs.org/)
+
+<br/> -->
+
 <br/>
 
-## Other
-
-[<code><img  width="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" /></code>](https://code.visualstudio.com/)
-
-[<code><img  width="30" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png" /></code>](https://github.com/)
-[<code><img  width="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png" /></code>](https://git-scm.com/)
-
-[<code><img  width="30" src="https://avatars.githubusercontent.com/u/22247014?s=200&v=4" /></code>](https://yarnpkg.com/)
-[<code><img  width="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/npm/npm.png" /></code>](https://www.npmjs.com/)
+## Hosting
 
 [<code><img  width="30" src="https://assets.vercel.com/image/upload/q_auto/front/favicon/vercel/57x57.png" /></code>](https://www.vercel.com/)
 [<code><img  width="30" src="https://www.herokucdn.com/favicon.ico" /></code>](https://heroku.com/)
 [<code><img  width="30" src="https://www.netlify.com/v3/static/favicon/favicon-32x32.png" /></code>](https://www.netlify.com/)
 
-[<code><img  width="30" src="https://avatars.githubusercontent.com/u/14101776?s=200&v=4" /></code>](https://flutter.dev/)
+<br/>
+
+## Package Manager
+
+[<code><img  width="30" src="https://avatars.githubusercontent.com/u/22247014?s=200&v=4" /></code>](https://yarnpkg.com/)
+[<code><img  width="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/npm/npm.png" /></code>](https://www.npmjs.com/)
+
+<br/>
+
+## Version Control
+
+[<code><img  width="30" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png" /></code>](https://github.com/)
+[<code><img  width="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png" /></code>](https://git-scm.com/)
+
+<br/>
+
+## Other
+
+[<code><img  width="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" /></code>](https://code.visualstudio.com/)
+[<code><img  width="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png" /></code>](#)
 [<code><img  width="30" src="https://s1.wp.com/i/favicons/favicon-64x64.png" /></code>](https://wordpress.com/)
 
 <!--
@@ -67,14 +85,18 @@ prettier
 
 ## Will Learn
 
+[<code><img  width="30" src="https://avatars.githubusercontent.com/u/6128107?s=200&v=4" /></code>](https://vuejs.org/)
+[<code><img  width="30" src="https://avatars.githubusercontent.com/u/23360933?s=200&v=4" /></code>](https://nuxtjs.org/)
+
+[<code><img  width="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sass/sass.png" /></code>](https://sass-lang.com/)
+[<code><img  width="30" src="https://threejs.org/files/favicon.ico" /></code>](https://threejs.org/)
+[<code><img  width="30" src="https://avatars.githubusercontent.com/u/426196?s=200&v=4" /></code>](https://unity.com/)
+
 [<code><img  width="30" src="https://howlerjs.com/assets/images/logo-big.svg" /></code>](https://greensock.com/)
 [<code><img  width="30" src="https://avatars.githubusercontent.com/u/2386673?s=200&v=4" /></code>](https://howlerjs.com/)
 [<code><img  width="30" src="https://avatars.githubusercontent.com/u/10566080?s=200&v=4" /></code>](https://socket.io/)
-[<code><img  width="30" src="https://threejs.org/files/favicon.ico" /></code>](https://threejs.org/)
 
-[<code><img  width="30" src="https://avatars.githubusercontent.com/u/426196?s=200&v=4" /></code>](https://unity.com/)
 [<code><img  width="30" src="https://static.figma.com/app/icon/1/favicon.ico" /></code>](https://www.figma.com/)
-
 [<code><img  width="30" src="https://avatars.githubusercontent.com/u/1335026?s=200&v=4" /></code>](https://firebase.google.com/)
 
 <br/>
