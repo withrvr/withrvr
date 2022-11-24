@@ -6,17 +6,13 @@
 
 -   [Languages and Tools I am useing / used / know](./languages_and_tools.md)
 
-<details>
-  <summary>⚡ GitHub Stats</summary>
-  <br />
+# ⚡ GitHub Stats</summary>
 
-![GitHub Streak Stats](http://github-readme-streak-stats.herokuapp.com?user=withrvr&date_format=j%20M%5B%20Y%5D)
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=withrvr&theme=dark&border_radius=14.7&date_format=j%20M%5B%20Y%5D)](https://git.io/streak-stats)
 
-![withrvr GitHub Stats](https://github-readme-stats.vercel.app/api?username=withrvr&show_icons=true)
+![withrvr GitHub Stats](https://github-readme-stats.vercel.app/api?username=withrvr&show_icons=true&theme=dark)
 
-![withrvr GitHub Most Used Language Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=withrvr&langs_count=10&layout=compact)
-
-</details>
+![withrvr GitHub Most Used Language Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=withrvr&langs_count=10&layout=compact&theme=dark)
 
 <!--- ........... End .......... and now ............... declaration of variables ............ -->
 
