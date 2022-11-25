@@ -1,4 +1,4 @@
-# Hey guys 👋, I'm Raghav aka [@withrvr](#connect-with-me)
+# Hey guys 👋, I'm Raghav aka [@withrvr][connect-with-me]
 
 -   🧠 I love [#Programming][connect-with-me] & [#ContentCreation][connect-with-me] on IG & YT
 
