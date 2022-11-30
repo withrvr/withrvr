@@ -1,4 +1,4 @@
--   [Languages and Tools](./languages_and_tools.md) ~ I am using / used / know
+- [Languages and Tools](./languages_and_tools.md) ~ I am using / used / know
 
 ## ⚡ GitHub Stats
 
@@ -7,6 +7,11 @@
 ![withrvr GitHub Stats](https://github-readme-stats.vercel.app/api?username=withrvr&show_icons=true&theme=dark)
 
 ![withrvr GitHub Most Used Language Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=withrvr&langs_count=10&layout=compact&theme=dark)
+
+# 🔥 Consistency is the key
+
+<img src="./quote.jpg" align="left" height="500" />
+<!-- https://www.myincrediblewebsite.com/wp-content/uploads/2017/01/MLK-on-Moving.jpg -->
 
 <!-- 🔚 : Variables -->
 
