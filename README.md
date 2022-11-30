@@ -8,7 +8,11 @@
 
 ![withrvr GitHub Most Used Language Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=withrvr&langs_count=10&layout=compact&theme=dark)
 
+<<<<<<< HEAD
 # 🔥 Consistency is the key
+=======
+## 🔥 Consistency is the key
+>>>>>>> 347feb070b866c1a4ae036b8b6e4d10e03bdf48f
 
 <img src="./quote.jpg" align="left" height="500" />
 <!-- https://www.myincrediblewebsite.com/wp-content/uploads/2017/01/MLK-on-Moving.jpg -->
