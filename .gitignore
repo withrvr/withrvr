@@ -1,9 +1,7 @@
-__pycache__
+# Other
 .vscode
 
-# foo bar files
-foo.*
-bar.*
-foobar.*
-
-job_projects
+# --- temp files ---
+foo*
+bar*
+foobar*

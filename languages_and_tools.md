@@ -1,5 +1,7 @@
 # Languages and Tools
 
+[![StackShare](http://img.shields.io/badge/tech-stack-0690fa.svg?style=flat)](https://stackshare.io/withrvr/my-stack) ... ie. on https://stackshare.io/withrvr/my-stack
+
 ## Front End
 
 [<code><img  width="30" src="https://cdn.jsdelivr.net/npm/programming-languages-logos@0.0.3/src/html/html.svg" /></code>](#)
