@@ -1,3 +1,14 @@
+```
+🤔: Its Raghav here / @withrvr / RiVeR
+
+🧠: Loves to #Code & #CreateContent
+🔥: Consistency is the Key
+🎵: Music is the Solution
+
+💬: DM for Anything
+🔴: Don't click the links in profile
+```
+
 # 👨‍💻: Languages and Tools
 - [Languages and Tools](./languages_and_tools.md) ~ I am using / used / know
 - My all socials at one place :- https://withrvr.bio.link/
