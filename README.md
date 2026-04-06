@@ -1,18 +1,48 @@
-<img src="./quote.jpg" width="500" />
+## Raghav Rathi — Backend Engineer
 
-<!-- 
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=withrvr&theme=dark&border_radius=14.7&date_format=j%20M%5B%20Y%5D)
--->
+Python · Django · REST APIs · SQL · MariaDB
 
+Building backend systems at a fintech product company.
+Focused on API design, database internals, and backend architecture.
 
-<!-- 
+## Tech Stack
 
-<a href="https://leetcode.com/withrvr/">
-	<img width="50" alt="LeetCode ~ @withrvr" src="https://img.icons8.com/external-tal-revivo-shadow-tal-revivo/50/000000/external-level-up-your-coding-skills-and-quickly-land-a-job-logo-shadow-tal-revivo.png" />
-</a>
+**Backend** — Python, Django, Django REST Framework  
+**Database** — MariaDB, MySQL, SQL  
+**Infra** — Linux, Ubuntu, Git  
 
-<br/>
+## Currently Learning — 2026
 
-- More detailed one [. . . click here](./full_readme.md)
+Actively upgrading across infra, cloud, and backend internals:
 
--->
+- **Cloud** — AWS (EC2, S3, RDS, SQS, Lambda, IAM, CloudWatch), GCP basics
+- **Infra** — Docker, Kubernetes
+- **Backend** — Celery (async task queues), ClickHouse (columnar analytics), PostgreSQL
+- **Django** — Internals, ORM query execution, middleware, signals, migrations deep-dive
+- **AI Integration** — Building with Claude API, OpenAI API, LLM integrations, AI-assisted development workflows
+
+## Projects
+
+**[1Link](https://github.com/withrvr/1Link)**  
+Django-based link aggregator — custom slug generation, user auth, session handling.  
+`Python` `Django` `SQLite`
+
+**[URL Shortener API](https://github.com/withrvr/url_shortener)** *(learning project — in progress)*  
+Building this to go deeper into Django internals — DRF architecture, ORM internals,
+migration system, request/response lifecycle, and proper REST API structure.  
+`Python` `Django REST Framework` `PostgreSQL`
+
+## DSA
+
+Solving LeetCode daily — consistent grind, medium-heavy focus.  
+**400+ problems solved** — Arrays, Trees, Graphs, DP, Sliding Window, Binary Search
+
+[leetcode.com/withrvr →](https://leetcode.com/withrvr)
+
+## Resume
+
+[View Resume →](https://drive.google.com/file/d/12MN7fZEpz4rddZN4KA3SKvn7h8q6wA-o/edit?pli=1)
+
+## Connect
+
+[LinkedIn](https://linkedin.com/in/withrvr) · [X / Twitter](https://x.com/codewithrvr) · [withrvr.bio.link](http://withrvr.bio.link)
