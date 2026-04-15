@@ -1,48 +1,43 @@
-## Hey, I'm Raghav Rathi 👋 — Backend Engineer
+# Hey, I'm RiVeR 👋
 
-🐍 Python · ⚙️ Django · 🔗 REST APIs · 🗄️ SQL · MariaDB
+**Backend Engineer | Python & Django**
 
-Building backend systems at a fintech product company.
-Focused on API design, database internals, and backend architecture.
+Building scalable backend systems at a Fintech product company. Currently focusing on deep-diving into the tools I use every day to build more robust and efficient software.
 
-## 🛠️ Tech Stack
+> 🎯 When you Focus on the Good, Your Good gets Better.
 
-**Backend** — Python, Django, Django REST Framework  
-**Database** — MariaDB, MySQL, SQL  
-**Infra** — Linux, Ubuntu, Git  
+---
 
-## 📈 Currently Learning — 2026
+### 🎯 2026 Roadmap: Mastering the Craft
+*Daily progress toward becoming a better architect.*
 
-Actively upgrading across infra, cloud, and backend internals:
+- **⚙️ The Core:** Deep-diving into **Python & Django internals** to eventually contribute to open source or build my own packages.
+- **🐳 Infrastructure:** Mastering **Docker & Kubernetes** at scale—moving from basic usage to architectural expertise.
+- **🚀 Systems:** Implementing **Kafka** for event-streaming and **ClickHouse** for columnar analytics.
+- **🏗️ Architecture:** Studying **Database Design** (specifically PostgreSQL) and how top companies scale their data layers.
+- **🤖 AI Engineering:** Understanding AI architecture and integrating agentic workflows using **Claude Code**.
+- **🔄 DevOps:** Hardening **CI/CD** pipelines for automated, reliable deployments.
 
-- ☁️ **Cloud** — AWS (EC2, S3, RDS, SQS, Lambda, IAM, CloudWatch), GCP basics
-- 🐳 **Infra** — Docker, Kubernetes
-- ⚙️ **Backend** — Celery (async task queues), ClickHouse (columnar analytics), PostgreSQL
-- 🔍 **Django** — Internals, ORM query execution, middleware, signals, migrations deep-dive
-- 🤖 **AI Integration** — Building with Claude API, OpenAI API, LLM integrations, AI-assisted development workflows
+---
 
-## 🚀 Projects
+### 🚀 Projects
 
-**[1Link](https://github.com/withrvr/1Link)**  
-Django-based link aggregator — custom slug generation, user auth, session handling.  
-`Python` `Django` `SQLite`
+#### [url_shortener](https://github.com/withrvr/url_shortener) 🔧 *(Active Deep-Dive)*
+A laboratory project for mastering backend concepts. Following the [roadmap.sh project guide](https://roadmap.sh/projects/url-shortening-service).
+- `Python` `Django` `PostgreSQL` `Redis`
 
-**[URL Shortener API](https://github.com/withrvr/url_shortener)** *(learning project — in progress 🔧)*  
-Building this to go deeper into Django internals — DRF architecture, ORM internals,
-migration system, request/response lifecycle, and proper REST API structure.  
-`Python` `Django REST Framework` `PostgreSQL`
+#### [1Link](https://github.com/withrvr/1Link) 🔗
+A Django-based link aggregator.
+- **Current Status:** Migrating to the latest version to master complex migration strategies and refactoring.
+- `Python` `Django` `SQLite`
 
-## 💻 DSA
+---
 
-Grinding LeetCode daily — medium-heavy focus.  
-**400+ problems solved** — Arrays, Trees, Graphs, DP, Sliding Window, Binary Search
+### 💻 DSA
+**400+ Problems Solved** | [View LeetCode Profile →](https://leetcode.com/withrvr)
 
-[leetcode.com/withrvr →](https://leetcode.com/withrvr)
+---
 
-## 📄 Resume
-
-[View Resume →](https://drive.google.com/file/d/12MN7fZEpz4rddZN4KA3SKvn7h8q6wA-o/edit?pli=1)
-
-## 🔗 Connect
-
-[LinkedIn](https://linkedin.com/in/withrvr) · [X / Twitter](https://x.com/codewithrvr) · [withrvr.bio.link](http://withrvr.bio.link)
+### 📄 Links & Contact
+- [**Latest Resume**](https://drive.google.com/file/d/1-IrIKtb2lN9pP7-AZSmyon_iHakEu6CB/view) 📄
+- [LinkedIn](https://linkedin.com/in/withrvr) · [X / Twitter](https://x.com/codewithrvr) · [Bio Link](http://withrvr.bio.link)
