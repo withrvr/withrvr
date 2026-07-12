@@ -1,0 +1,48 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<svg xmlns="http://www.w3.org/2000/svg" font-family="ConsolasFallback,Consolas,monospace" width="920px" height="340px" font-size="16px">
+<style>
+@font-face {
+src: local('Consolas'), local('Consolas Bold');
+font-family: 'ConsolasFallback';
+font-display: swap;
+-webkit-size-adjust: 109%;
+size-adjust: 109%;
+}
+.key {fill: #953800;}
+.value {fill: #0a3069;}
+.cc {fill: #c2cfde;}
+text, tspan {white-space: pre;}
+</style>
+<rect width="920px" height="340px" fill="#f6f8fa" rx="15"/>
+<text x="15" y="50" fill="#24292f">
+<tspan x="15" y="50"></tspan>
+<tspan x="15" y="70">     ~~~     ~   ~~</tspan>
+<tspan x="15" y="90">  ~~     ~~~   ~     ~~~</tspan>
+<tspan x="15" y="110"></tspan>
+<tspan x="15" y="130"> ____   __     __  ____</tspan>
+<tspan x="15" y="150">|  _ \  \ \   / / |  _ \ </tspan>
+<tspan x="15" y="170">| |_) |  \ \ / /  | |_) |</tspan>
+<tspan x="15" y="190">|  _ &lt;    \ V /   |  _ &lt; </tspan>
+<tspan x="15" y="210">|_| \_\    \_/    |_| \_\ </tspan>
+<tspan x="15" y="230"></tspan>
+<tspan x="15" y="250">  ~~   ~~~    ~~    ~~</tspan>
+<tspan x="15" y="270"> ~   ~~    ~~~   ~~~   ~</tspan>
+<tspan x="15" y="290">   ~~~   ~~   ~~~    ~~</tspan>
+<tspan x="15" y="310"></tspan>
+</text>
+<text x="300" y="30" fill="#24292f">
+<tspan x="300" y="30">RiVeR here -—————————————————————————————————————————————-</tspan>
+<tspan x="300" y="50"><tspan class="cc">. </tspan><tspan class="key">role</tspan>:<tspan class="cc"> .................. </tspan><tspan class="value">backend focus software engineer</tspan></tspan>
+<tspan x="300" y="70"><tspan class="cc">. </tspan><tspan class="key">language</tspan>.<tspan class="key">tech</tspan>:<tspan class="cc"> ................. </tspan><tspan class="value">python, django, fastapi</tspan></tspan>
+<tspan x="300" y="90"><tspan class="cc">. </tspan><tspan class="key">language</tspan>.<tspan class="key">real</tspan>:<tspan class="cc"> .......................... </tspan><tspan class="value">english, hindi</tspan></tspan>
+<tspan x="300" y="110"><tspan class="cc">. </tspan><tspan class="key">hobbies</tspan>:<tspan class="cc"> .................................. </tspan><tspan class="value">video gaming</tspan></tspan>
+<tspan x="300" y="150">- contact -——————————————————————————————————————————————-</tspan>
+<tspan x="300" y="170"><tspan class="cc">. </tspan><tspan class="key">email</tspan>:<tspan class="cc"> ........................ </tspan><tspan class="value">contactwithrvr@gmail.com</tspan></tspan>
+<tspan x="300" y="190"><tspan class="cc">. </tspan><tspan class="key">resume</tspan>:<tspan class="cc"> .......................... </tspan><tspan class="value">bit.ly/withrvr_resume</tspan></tspan>
+<tspan x="300" y="230">- 2026 Learning Roadmap -————————————————————————————————-</tspan>
+<tspan x="300" y="250"><tspan class="cc">. </tspan><tspan class="key">Internals</tspan>:<tspan class="cc"> ................ </tspan><tspan class="value">Python &amp; Django &amp; PostgreSQL</tspan></tspan>
+<tspan x="300" y="270"><tspan class="cc">. </tspan><tspan class="key">Infrastructure</tspan>:<tspan class="cc"> .................... </tspan><tspan class="value">Docker &amp; Kubernetes</tspan></tspan>
+<tspan x="300" y="290"><tspan class="cc">. </tspan><tspan class="key">Systems</tspan>:<tspan class="cc"> ......................................... </tspan><tspan class="value">Kafka</tspan></tspan>
+<tspan x="300" y="310"><tspan class="cc">. </tspan><tspan class="key">AI</tspan>:<tspan class="cc"> .................. </tspan><tspan class="value">agentic workflows and LLM tooling</tspan></tspan>
+</text>
+</svg>
