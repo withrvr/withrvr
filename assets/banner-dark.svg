@@ -38,7 +38,7 @@ text, tspan {white-space: pre;}
 <tspan x="300" y="110"><tspan class="cc">. </tspan><tspan class="key">hobbies</tspan>:<tspan class="cc"> .................................. </tspan><tspan class="value">video gaming</tspan></tspan>
 <tspan x="300" y="150">- contact -——————————————————————————————————————————————-</tspan>
 <tspan x="300" y="170"><tspan class="cc">. </tspan><tspan class="key">email</tspan>:<tspan class="cc"> ........................ </tspan><tspan class="value">contactwithrvr@gmail.com</tspan></tspan>
-<tspan x="300" y="190"><tspan class="cc">. </tspan><tspan class="key">resume</tspan>:<tspan class="cc"> .......................... </tspan><tspan class="value">bit.ly/withrvr_resume</tspan></tspan>
+<tspan x="300" y="190"><tspan class="cc">. </tspan><tspan class="key">resume</tspan>:<tspan class="cc"> .............................. </tspan><tspan class="value">bit.ly/rvr_resume</tspan></tspan>
 <tspan x="300" y="230">- 2026 Learning Roadmap -————————————————————————————————-</tspan>
 <tspan x="300" y="250"><tspan class="cc">. </tspan><tspan class="key">Internals</tspan>:<tspan class="cc"> ................ </tspan><tspan class="value">Python &amp; Django &amp; PostgreSQL</tspan></tspan>
 <tspan x="300" y="270"><tspan class="cc">. </tspan><tspan class="key">Infrastructure</tspan>:<tspan class="cc"> .................... </tspan><tspan class="value">Docker &amp; Kubernetes</tspan></tspan>
