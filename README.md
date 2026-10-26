@@ -20,7 +20,7 @@ Along the way\
 
 Currently\
 → learning from [github.com/rohitg00/ai-engineering-from-scratch](https://github.com/rohitg00/ai-engineering-from-scratch)\
-→ posting on [x.com/withrvr](https://x.com/withrvr)\
+→ posting on [x.com/withrvr](https://x.com/withrvr) and [linkedin.com/in/withrvr/](https://linkedin.com/in/withrvr/)\
 → reading books and articles on scaling servers for high throughput and low latency
 
 Side projects in focus\
